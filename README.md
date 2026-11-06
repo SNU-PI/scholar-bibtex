@@ -34,6 +34,8 @@ git clone https://github.com/SNU-PI/scholar-bibtex.git ~/.codex/skills/scholar-b
 
 Then ask your agent, for example: "Use scholar-bibtex to update references.bib."
 
+To try it on a small example (five famous papers), see [examples/](examples/README.md).
+
 ## Requirements
 
 - Python 3 (standard library only) for `scripts/scholar_bib.py`
