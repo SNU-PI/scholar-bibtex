@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scholar BibTeX"
+  short_description: "Replace .bib entries with verbatim Scholar/OpenReview BibTeX"
+  default_prompt: "Use $scholar-bibtex to fetch each cited entry's Google Scholar BibTeX (accepted venue first, then the OpenReview copy Scholar lists, then arXiv) through the browser, keep it verbatim, and verify the .bib against the receipts."
